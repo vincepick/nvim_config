@@ -4,4 +4,4 @@
 
 # Credits
 
-1) Nvim starter: https://github.com/NvChad/NvChad
+1) Nvchad, the config this was built on: https://github.com/NvChad/NvChad
